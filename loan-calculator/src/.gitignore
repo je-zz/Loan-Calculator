@@ -1,0 +1,2 @@
+# Ignore custom hook for exchange rates
+src/hooks/useExchangeRates.js
