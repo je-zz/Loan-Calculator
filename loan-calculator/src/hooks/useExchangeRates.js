@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react';
 import axios from 'axios';
 
-const API_KEY = '81f0e03c66762f5ccf10caef'; // Replace with your real key
+const API_KEY = ''; // Replace with your real key
 
 const useExchangeRates = (baseCurrency = 'USD') => {
   const [rates, setRates] = useState({});
